@@ -1,0 +1,105 @@
+{
+  "Semester 1": {
+    "حسبان 1": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "فيزيا 1": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "جبر خطي": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "استاتيكا": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "حاسوب": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "رسم هندسي1": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "لغة انجليزية1": {"lectures": "", "sheets": "", "assignments": "", "exams": ""}
+  },
+  "Semester 2": {
+    "ثقافة سودانية": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "أساسيات الهندسة": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "الرسم الهندسي2": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "فيزيا2": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "حسبان2": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "كيميا": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "ديناميكا": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "لغة انجليزية2": {"lectures": "", "sheets": "", "assignments": "", "exams": ""}
+  },
+  "Semester 3": {
+    "التفاضلية": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "التحليلية": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "علم و خواص المواد": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "أساسيات ميكانيكا": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "أساسيات كهربا": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "ميكانيكا مواد": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "العوامل البشرية": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "لغة انجليزية3": {"lectures": "", "sheets": "", "assignments": "", "exams": ""}
+  },
+  "Semester 4": {
+    "لغات برمجة": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "ميكانيكا مواد 2": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "ميكانيكا موائع": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "نظرية الدوائر الكهربائية": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "ديناميكا حرارية": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "تماثلية": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "تكاملية": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "دوال مركبة": {"lectures": "", "sheets": "", "assignments": "", "exams": ""}
+  },
+  "Semester 5": {
+    "الاحصاء": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "الدراسات السودانية": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "الكترونيات رقمية": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "مقدمة هندسة الطيران": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "الاهتزازات الميكانيكية": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "الالات الكهربية": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "ديناميكا الغازات": {"lectures": "", "sheets": "", "assignments": "", "exams": ""}
+  },
+  "Semester 6": {
+    "تحليل عددي": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "معالجات دقيقة": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "ميكانيكا الالات": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "نظرية التحكم الالي": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "انتقال الحرارة و الكتلة": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "منطومات كهرباء الطائرات": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "الديناميكية الهوائية1": {"lectures": "", "sheets": "", "assignments": "", "exams": ""}
+  },
+  "Semester 7": {
+    "نظرية محركات الطائرات و المجالات الكهرومغنطيسية": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "منظومة الطائرات": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "مواد الطائرات": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "أخلاقيات مهنة الهندسة": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "الدينامية الهوائية2+نظم تحكم ألي": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "تحليل هياكل الطائرات+إشارات و نظم": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "الأقتصاد الهندسي": {"lectures": "", "sheets": "", "assignments": "", "exams": ""}
+  },
+  "Semester 8 – Avionics": {
+    "أساسيات الاتصالات": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "أداء الطائرات": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "اقتصاد النقل الجوي": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "طرق البحث العلمي": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "معالجة الإشارات الرقمية": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "منظومات ملاحة": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "نظرية الرادار": {"lectures": "", "sheets": "", "assignments": "", "exams": ""}
+  },
+  "Semester 8 – Engine": {
+    "اقتصاد النقل الجوي": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "تصميم محركات 1": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "تصميم هياكل الطائرات": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "طرق البحث العلمي": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "منظومات الطائرات 2": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "ميكانيكا الطائرات": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "نظرية محركات ومراوح 2": {"lectures": "", "sheets": "", "assignments": "", "exams": ""}
+  },
+  "Semester 9 – Avionics": {
+    "Flight Mechanic 2 (Stability & Control)": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "Power Electronics": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "Automatic Flight Control": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "Navigation": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "Digital Communications Aviation": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "AerocontrolEngandCs": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "Radars systems": {"lectures": "", "sheets": "", "assignments": "", "exams": ""}
+  },
+  "Semester 9 – Engine": {
+    "Flight Mechanic 2 (Stability & Control)": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "Aircraft engines design": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "Aircraft engine structure design 2": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "Finite element method": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "Computational Fluid Dynamics (CFD)": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "Aircraft design": {"lectures": "", "sheets": "", "assignments": "", "exams": ""},
+    "Aircraft engines systems": {"lectures": "", "sheets": "", "assignments": "", "exams": ""}
+  }
+}
+
